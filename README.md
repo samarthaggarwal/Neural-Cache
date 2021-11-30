@@ -1,5 +1,8 @@
 # Image Classification Using Deep Learning
 
+
+This repo has been forked from https://github.com/Mayurji/Image-Classification-PyTorch
+
 **Learning and Building Image Classification Models using PyTorch. Models, selected are based on number of citation of the paper with the help of [paperwithcode](https://paperswithcode.com/) along with unique idea deviating from typical architecture like using transformers for CNN.**
 
 <!-- ![Image Classification Using Deep Learning](Images/cnn.jpg) -->
